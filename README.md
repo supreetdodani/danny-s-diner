@@ -1,4 +1,4 @@
-# Danny's Diner - SQL Case Study 🍽️  
+# Danny's Diner - SQL Case Study 
 
 ## Overview  
 This project is a **SQL-based case study** analyzing customer purchase behavior at *Danny's Diner*, a fictional restaurant. The dataset includes customer sales transactions, menu items, and membership details. The analysis uncovers **purchase trends, duplicate orders, and membership impact on spending** using SQL queries.  
