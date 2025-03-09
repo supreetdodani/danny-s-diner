@@ -31,6 +31,6 @@ The project consists of three tables:
 2.  Execute `queries.sql` to generate insights.  
 
 ## Author  
-[Supreet Dodani]
-[(https://www.linkedin.com/in/supreet-dodani-3a3371246/)]
+Supreet Dodani
+https://www.linkedin.com/in/supreet-dodani-3a3371246/
 
